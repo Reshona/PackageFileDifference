@@ -1,5 +1,5 @@
 # PackageFileDifference
-This will help you to extract the contents of 2 packages and placing it them in excel to make it easier to view/compare the contents of 2 files.
+This will help you to extract the contents of 2 packages and placing them in excel to make it easier to view/compare the contents of 2 files.
 
 **Pre-req**
 This script is built on 7-zip, hence make sure you have 7-zip installed on your machine. Also, add it to your path under evironment variables.
